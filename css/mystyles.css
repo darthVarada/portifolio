@@ -1,0 +1,50 @@
+#nome {
+	font-size: 1.3em;	
+}
+#section{
+	
+}
+#img-avatar {
+	width:25%;
+	padding-top:34vh;
+	
+}
+#titulo-contato{
+	color: blue;
+	padding-top:20vh;
+	
+}
+#form-nome {
+	width:100%;	
+}
+.form1{
+	padding-left:30vw;
+	padding-right:30vw;
+	padding-top:3vh;
+}
+#botao1{
+	margin-top:1vh;
+}
+#form-nome {
+	margin-bottom:3vh;
+}
+#form-email {
+	margin-bottom:3vh;
+}
+#form-telefone {
+	margin-bottom:3vh;
+}
+#section2{
+	padding-top:12vh;
+	padding-bottom:12vh;
+}
+#proeficiencias{
+	padding-bottom:9vh;
+}
+@midia (min-width: 734px){
+	.babatinhaquandonasce {
+		margin-left:auto;
+		margin-right:auto;
+		width:50% !important;
+	}
+}
